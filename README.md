@@ -1,11 +1,9 @@
-# soapffz-tools
-My Personal Toolbox.我的个人工具箱。
-
 # 前言
 
  - 创作灵感来源：[pseudoyu](https://github.com/pseudoyu)大佬的[工具箱](https://github.com/pseudoyu/yu-tools)
 
 > 工欲善其事，必先利其器
+
 > 差生文具多
 
 ~*中国的古话总是自相矛盾*~
@@ -89,7 +87,7 @@ My Personal Toolbox.我的个人工具箱。
 
 默认关闭的插件如下：
 
- - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj?h1=zh)：浏览器截屏插件，默认关闭
+ - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj?h1=zh)：浏览器截屏插件
  - [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?h1=zh)：将一个完整的页面保存到单个 HTML 文件中
  - [FeHelper(前端助手)](https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad?h1=zh)：前端小工具，对前端的师傅应该有帮助
  - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?h1=zh)：分析当前网页架构及使用到的组件，对前端及黑客师傅有用
