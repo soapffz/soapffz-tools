@@ -1,5 +1,22 @@
 ![microorganism-g8e31d68d8_640](https://img.soapffz.com/archives_img/2022/10/26/microorganism-g8e31d68d8_640.jpg)
 
+# Table of Contents
+
+- [前言](#前言)
+- [硬件设备](#硬件设备)
+  - [电脑](#电脑)
+  - [手机及其他电子设备](#手机及其他电子设备)
+- [跨平台软件](#跨平台软件)
+  - [必装软件](#必装软件)
+  - [实用跨平台工具](#实用跨平台工具)
+- [Mac 专属软件](#mac-专属软件)
+- [Win 专属软件](#win-专属软件)
+- [浏览器插件](#浏览器插件)
+  - [TamperMonkey 油猴脚本](#tampermonkey-油猴脚本)
+- [vsc(visual studio code)插件](#vscvisual-studio-code插件)
+- [更新日志](#更新日志)
+- [创作灵感来源](#创作灵感来源)
+
 # 前言
 
 > 工欲善其事，必先利其器
@@ -159,5 +176,4 @@ TamperMonkey 油猴脚本好用的太多更新的太快，这里只按自己常�
 # 创作灵感来源
 
 [pseudoyu](https://github.com/pseudoyu)大佬的[工具箱](https://github.com/pseudoyu/yu-tools)
-
-[TOC 目录生成器](https://github.com/ekalinin/github-markdown-toc.go#installation)
+[TOC 目录生成器](https://github.com/ekalinin/github-markdown-toc)
